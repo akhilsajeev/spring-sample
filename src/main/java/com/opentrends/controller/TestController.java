@@ -9,7 +9,7 @@ public class TestController {
 	@RequestMapping("/load")
 	public String getLoad(){
 		
-		return "start";
+		return "new start";
 		
 	}
 
