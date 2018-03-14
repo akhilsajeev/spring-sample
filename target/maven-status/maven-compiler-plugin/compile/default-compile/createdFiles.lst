@@ -1,0 +1,7 @@
+com/opentrends/controller/TestController.class
+com/opentrends/SecurityConfiguration.class
+com/opentrends/SecurityWebApplicationInitializer.class
+com/opentrends/CustomBasicAuthenticationEntryPoint.class
+com/opentrends/AppInitializer.class
+com/opentrends/SpringSample.class
+com/opentrends/controller/UserController.class
