@@ -13,6 +13,6 @@ public class TestController {
 	
 	@RequestMapping("/load")
 	public String getLoad(){
-		return "Loading.....";
+		return "Loading Load Page.....";
 	}
 }
