@@ -8,6 +8,6 @@ public class TestController {
 	
 	@RequestMapping("/load")
 	public String getLoad(){
-		return "Loading Load Page.....";
+		return "Loading Load Page.....Build Change";
 	}
 }
