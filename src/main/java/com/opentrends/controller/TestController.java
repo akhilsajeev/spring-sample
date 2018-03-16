@@ -6,11 +6,13 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TestController {
 	
+	@RequestMapping("/")
+	public String getLoad(){
+		return "Welcome";
+	}
+	
 	@RequestMapping("/load")
 	public String getLoad(){
-		
-		return "new start - Salvan Tested";
-		
+		return "Loading.....";
 	}
-
 }
